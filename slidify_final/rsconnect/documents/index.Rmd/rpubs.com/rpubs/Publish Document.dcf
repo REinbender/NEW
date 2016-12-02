@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/231981/f73d3d7ce628442c82e9b4b207cade9b
+bundleId: https://api.rpubs.com/api/v1/document/231981/f73d3d7ce628442c82e9b4b207cade9b
+url: http://rpubs.com/chupatke/231981
+when: 1480708454.4892
